@@ -1,3 +1,3 @@
 export default function bar() {
-  console.log('Hello, Node.js.');
+  console.log('Hello, Google Calendar Selector.');
 }
